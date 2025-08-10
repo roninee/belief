@@ -1,5 +1,5 @@
 site_name: belief
-site_url: https://mydomain.org/athletics
+site_url: https://mydomain.org/belief
 dev_addr: 0.0.0.0:8000
 theme:
   name: material
